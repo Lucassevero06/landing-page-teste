@@ -100,7 +100,8 @@ a:hover {
 }
 
 .conteudo-principal-imagem {
-
+    width: 300px;
+    height: 350px;
 }
 
 .conteudo-secundario {
